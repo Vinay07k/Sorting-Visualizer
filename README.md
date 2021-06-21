@@ -1,7 +1,5 @@
 # Sorting Visualizer
-## Ever tried visualizing sorting algorithms? It will be easier to visualize now!
-
-This is simple Sorting Visualizer Project made using JavaScript.
+A simple Sorting Visualizer Project made using JavaScript.
 
 **Sorting Algorithms**
 - Merge Sort
